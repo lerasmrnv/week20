@@ -1,0 +1,26 @@
+.page {
+    padding: 0 20vw;
+    background-image: url(../images/fon.jpg);
+
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+.author,
+.text,
+.title {
+    text-align: center;
+}
+
+.title {
+    color: darkslategrey;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
